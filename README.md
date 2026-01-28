@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/monikasara/Leetcode-problems/tree/master/0136-single-number) |
 | [0605-can-place-flowers](https://github.com/monikasara/Leetcode-problems/tree/master/0605-can-place-flowers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/monikasara/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Greedy
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/monikasara/Leetcode-problems/tree/master/0197-rising-temperature) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/monikasara/Leetcode-problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
