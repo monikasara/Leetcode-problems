@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/monikasara/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/monikasara/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monikasara/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/monikasara/Leetcode-problems/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0605-can-place-flowers](https://github.com/monikasara/Leetcode-problems/tree/master/0605-can-place-flowers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/monikasara/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Greedy
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/monikasara/Leetcode-problems/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
