@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/monikasara/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/monikasara/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/monikasara/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/monikasara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/monikasara/Leetcode-problems/tree/master/0125-valid-palindrome) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/monikasara/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/monikasara/Leetcode-problems/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/monikasara/Leetcode-problems/tree/master/0228-summary-ranges) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/monikasara/Leetcode-problems/tree/master/0605-can-place-flowers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/monikasara/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Greedy
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/monikasara/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/monikasara/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
