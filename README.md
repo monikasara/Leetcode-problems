@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/monikasara/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/monikasara/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/monikasara/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/monikasara/Leetcode-problems/tree/master/0605-can-place-flowers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/monikasara/Leetcode-problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/monikasara/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/monikasara/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/monikasara/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
 | ------- |
